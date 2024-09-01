@@ -2,17 +2,17 @@
 Simple user registration app
 I'd be glad to create a comprehensive response that incorporates the best aspects of the provided responses, addresses potential issues, and adheres to the prompt's requirements:
 
-** Welcome to Your Streamlit User Registration App! **
+**Welcome to Your Streamlit User Registration App!**
 
 This Python script powered by Streamlit helps you create a user registration form with an intuitive and user-friendly interface. 
 
-** What It Does:**
+**What It Does:**
 
 * Guides users through the registration process by collecting their first name, last name, email, password, and date of birth.
 * Validates user input to ensure essential fields are filled before submission.
 * Provides clear feedback with success messages upon successful registration or warnings when required fields are empty.
 
-** Requirements:**
+**Requirements:**
 
 * Python 3 (Download from [https://www.python.org/downloads/](https://www.python.org/downloads/))
 * Streamlit library (Install using `pip install streamlit`)
@@ -30,7 +30,7 @@ This Python script powered by Streamlit helps you create a user registration for
    ```
 4. **Register!** Fill out the form with your details and click the " Submit" button
 
-** Contributing:**
+**Contributing:**
 
 Feel free to customize this script further! You can add:
 
