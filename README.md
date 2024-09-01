@@ -2,8 +2,6 @@
 Simple user registration app
 I'd be glad to create a comprehensive response that incorporates the best aspects of the provided responses, addresses potential issues, and adheres to the prompt's requirements:
 
-**README.md: User Registration App**
-
 ** Welcome to Your Streamlit User Registration App! **
 
 This Python script powered by Streamlit helps you create a user registration form with an intuitive and user-friendly interface. 
